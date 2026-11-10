@@ -1,6 +1,6 @@
 # Entrevista 1 – Preguntas enviadas a la Sra. Mary Loza
 
-Las respuestas fueron enviadas por nota de voz (9 audios en la carpeta `audios/`).
+Las respuestas fueron enviadas por nota de voz (9 audios en la carpeta `Entrevista-audios`).
 
 | # | Pregunta enviada | Fecha |
 |---|---|---|
